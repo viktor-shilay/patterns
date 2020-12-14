@@ -1,4 +1,4 @@
-package java.proxy;
+package main.java.proxy;
 
 public class PlayerRunner {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java.singleton;
+package main.java.singleton;
 
 public class LoggerRunner {
     public static void main(String[] args) {
