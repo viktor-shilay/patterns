@@ -9,12 +9,12 @@ public class MusicPlayer implements Player {
         load();
     }
 
-    public void load(){
-        System.out.println("Loading song " + songName + "...");
+    public void load() {
+        System.out.println("Loading playlists... Loading song " + songName + "...");
     }
 
     @Override
     public void play() {
-        System.out.println("Playing song " + songName + "...");
+        System.out.println("Start playing song " + songName + "...");
     }
 }
